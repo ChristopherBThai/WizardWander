@@ -7,6 +7,14 @@ A rogue-like game created for my high school project. Most of the artwork was cr
 ##How to Play
 ###Objective
 The objective of this game is to get as far as you can. Each floor has a boss you must defeat to proceed to the next floor. As you progress up the floors, the difficulty will increase.
+
+There are several types of enemies and bosses so be careful! They all have A\* pathfinding algorithms to get around the room and chase you!
+
+All rooms and maps are randomly generated. You can check the top left corner of the screen to see the map! It's random every time and gets larger every floor!
+
+There are a handful of items you can obtain through bosses and chests. Some improve your overall stats while others gives you new weapons and abilities!
+
+
 ###Controls
 You can move with WASD controls and shoot with the arrow keys. Your spells can be used with the space key.
 
@@ -21,7 +29,7 @@ This project was created in Eclipse in Java. All coding was done by Christopher 
 ###Enemies
 ![Screenshot](http://i.imgur.com/htqfGcX.gif)  ![Screenshot](http://i.imgur.com/bGP269U.gif)
 ###Items
-![Screenshot](https://j.gifs.com/j2OZmv.gif)  ![Screenshot](http://i.imgur.com/LrKq6qs.gif)
+![Screenshot](http://i.imgur.com/BRNSb5t.gif)  ![Screenshot](http://i.imgur.com/LrKq6qs.gif)
 ###Weapons
 ![Basic Weapon](http://i.imgur.com/VBmundD.gif)  ![Fruits](http://i.imgur.com/9bzTZOB.gif)
 ![Bubbles](http://i.imgur.com/by22qeC.gif)  ![Laser](http://i.imgur.com/8CJ1cNR.gif)
